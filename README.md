@@ -5,6 +5,6 @@
 # pip install requests 
 # pip install futures
 # pkg update 
-# git clone https://github.com/CRACKER464/CRACKERv7.89.git
+# git clone https://github.com/CRACKER464/CRACKERv8.git
 # cd CRACKERv8
 # python CRACKERv8.py
